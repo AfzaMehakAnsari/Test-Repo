@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Carousel */
+.bgimage-1 {
+    background-image: url(assets/January.webp);
+    background-position: center;
+}
+
+.bgimage-2 {
+    background-image: url(assets/February.webp);
+    background-position: left;
+}
+
+.bgimage-3 {
+    background-image: url(assets/March.webp);
+    background-position: center;
+}
+
+.bgimage-4 {
+    background-image: url(assets/April.webp);
+    background-position: center;
+}
+
+.bgimage-5 {
+    background-image: url(assets/May.webp);
+    background-position: center;
+}
+
+.bgimage-6 {
+    background-image: url(assets/June.webp);
+    background-position: center;
+}
+
+.bgimage-7 {
+    background-image: url(assets/july.webp);
+    background-position: center;
+}
+
+.bgimage-8 {
+    background-image: url(assets/August.webp);
+    background-position: center;
+}
+
+.bgimage-9 {
+    background-image: url(assets/September.webp);
+    background-position: center;
+}
+
+.bgimage-10 {
+    background-image: url(assets/October.webp);
+    background-position: center;
+}
+
+.bgimage-11 {
+    background-image: url(assets/November.webp);
+    background-position: center;
+}
+
+.bgimage-12 {
+    background-image: url(assets/December.webp);
+    background-position: center;
+}
+
+.carouselimage{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Card */
+.card {
+    width: 100%;
+    max-width: 20rem;
+    border: none !important;
+}
+
+.cardimg {
+    height: auto;
+    max-height: 220px;
+}
+
